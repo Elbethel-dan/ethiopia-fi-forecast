@@ -1,0 +1,13 @@
+week10
+
+DS_Store
+
+data
+
+*.log
+
+temp
+
+__pycache__/
+*.pyc
+
