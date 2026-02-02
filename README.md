@@ -1,7 +1,10 @@
 # Financial Inclusion Forecasting — Ethiopia
 ### Overview
 
+---
+
 This project builds a data-driven forecasting system to analyze and predict financial inclusion in Ethiopia, focusing on Access (account ownership) and Usage (digital payment adoption) as defined by the World Bank Global Findex. The work is conducted in the context of Ethiopia’s rapid digital finance expansion, including Telebirr and M-Pesa market entry.
+
 ---
 ### Business Context
 
