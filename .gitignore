@@ -2,7 +2,7 @@ week10
 
 data
 
-DS_Store
+.DS_Store
 *.log
 
 __pycache__/
